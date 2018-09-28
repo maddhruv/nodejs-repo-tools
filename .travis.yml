@@ -18,12 +18,6 @@ node_js:
 - "8"
 - "10"
 
-cache:
-  # We need yarn installed for the tests to work
-  yarn: true
-  directories:
-  - $HOME/node_modules/
-
 before_install:
   - openssl aes-256-cbc -K $AES_256_KEY -iv $AES_256_IV -in key.json.enc -out key.json -d
 install:
