@@ -1,3 +1,19 @@
+##### 2.3.3 - 27 July 2018
+
+###### Backwards compatible changes
+- Updated Readme template
+
+##### 2.3.2 - 23 July 2018
+
+###### Backwards compatible changes
+- Added Cloud IoT Core product
+- Added Cloud AutoML product
+
+##### 2.3.1 - 11 July 2018
+
+###### Backwards compatible changes
+- Added Cloud Tasks product
+
 ##### 2.3.0 - 06 April 2018
 
 ###### Backwards compatible changes
